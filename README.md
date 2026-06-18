@@ -4,7 +4,7 @@
 Built from TAP Academy's React Interview guide.
 
 ## 🚀 Live Demo
-👉 **[Open the App](https://rishikeshsingh906.github.io/React-interview-prep/)**
+👉 **[React Interview App](https://rishikeshsingh906.github.io/React-interview-prep/)**
 
 ## 📚 Categories Covered
 1. React Fundamentals
